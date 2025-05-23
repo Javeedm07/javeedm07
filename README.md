@@ -33,7 +33,7 @@ const javeed = {
 • Previous Adventures: Java Full Stack Intern at DATA VALLEY and ML Intern at INDIAN SERVERS<br>
 • Project Highlights: Built MEDCONNECT healthcare system serving 500+ monthly appointments and developed AI models processing 23,000+ images
 
-<br>
+<br><br>
 🏆 Recognition & Achievements:
 
 • Third Prize for Academic Excellence (2024)<br>
