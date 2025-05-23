@@ -33,18 +33,19 @@ const javeed = {
 • Previous Adventures: Java Full Stack Intern at DATA VALLEY and ML Intern at INDIAN SERVERS<br>
 • Project Highlights: Built MEDCONNECT healthcare system serving 500+ monthly appointments and developed AI models processing 23,000+ images
 
+<br>
 🏆 Recognition & Achievements:
 
-• Third Prize for Academic Excellence (2024)
-• Winner of Coding Competition Samiksha 2K23
-• Multiple certifications from Google, CISCO, NPTEL, and HackerRank
+• Third Prize for Academic Excellence (2024)<br>
+• Winner of Coding Competition Samiksha 2K23<br>
+• Multiple certifications from Google, CISCO, NPTEL, and HackerRank<br>
 
 🌱 Current Focus:
 
-🔭 Building scalable full-stack applications with real-world impact
-🤖 Exploring advanced ML techniques and AI model optimization
-🚀 Contributing to open source projects and collaborative development
-💡 Bridging the gap between data science and web development
+🔭 Building scalable full-stack applications with real-world impact<br>
+🤖 Exploring advanced ML techniques and AI model optimization<br>
+🚀 Contributing to open source projects and collaborative development<br>
+💡 Bridging the gap between data science and web development<br>
 
 From debugging late-night code sessions to deploying production-ready applications, every challenge has shaped me into the developer I am today. Let's connect and build something extraordinary together! 💻✨
 </details>
