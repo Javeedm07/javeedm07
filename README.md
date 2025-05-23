@@ -50,14 +50,6 @@ Multiple certifications from Google, CISCO, NPTEL, and HackerRank
 From debugging late-night code sessions to deploying production-ready applications, every challenge has shaped me into the developer I am today. Let's connect and build something extraordinary together! 💻✨
 </details>
 
-🎯 **Current Goals:**
-- 🔭 Working on innovative full-stack projects
-- 🌱 Learning advanced machine learning techniques
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about React, Node.js, Python, or Data Science
-- ⚡ Fun fact: I love turning coffee into code ☕→💻
-
-</details>
 
 ---
 
