@@ -142,7 +142,6 @@ From debugging late-night code sessions to deploying production-ready applicatio
 
 ---
 
-## 📫 Let's Create Something Extraordinary Together!
 
 <div align="center">
   
@@ -152,7 +151,7 @@ From debugging late-night code sessions to deploying production-ready applicatio
 *Let's code the future together!*
 
 ---
-
+<div align="center">
 ```
     ╔══════════════════════════════════════╗
     ║                                      ║
@@ -166,6 +165,7 @@ From debugging late-night code sessions to deploying production-ready applicatio
     ║                                      ║
     ╚══════════════════════════════════════╝
 ```
+</div>
 
 ---
 
