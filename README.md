@@ -142,24 +142,6 @@ From debugging late-night code sessions to deploying production-ready applicatio
 
 ---
 
-## 💡 Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🌟 Coming Soon - Watch This Space! 🌟
-
-</div>
-
----
-
 ## 📫 Let's Create Something Extraordinary Together!
 
 <div align="center">
