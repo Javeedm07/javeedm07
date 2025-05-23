@@ -29,17 +29,15 @@ const javeed = {
 <br>
 • My journey began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since!
 • Currently pursuing B.Tech in CSE at ALIET, Vijayawada with an impressive 8.8 CGPA, I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.
-🎯 Professional Milestones:
-
-Current Role: Data Science Intern at SKILLDZIRE, where I've optimized data processing by 30% and built ML models with 92% accuracy for heart attack prediction
-Previous Adventures: Java Full Stack Intern at DATA VALLEY (reduced database query time by 45%) and ML Intern at INDIAN SERVERS (achieved 90% sentiment analysis accuracy)
-Project Highlights: Built MEDCONNECT healthcare system serving 500+ monthly appointments and developed AI models processing 23,000+ images
+• *Current Role*: Data Science Intern at SKILLDZIRE
+• *Previous Adventures*: Java Full Stack Intern at DATA VALLEY and ML Intern at INDIAN SERVERS
+• *Project Highlights*: Built MEDCONNECT healthcare system serving 500+ monthly appointments and developed AI models processing 23,000+ images
 
 🏆 Recognition & Achievements:
 
-Third Prize for Academic Excellence (2024)
-Winner of Coding Competition Samiksha 2K23
-Multiple certifications from Google, CISCO, NPTEL, and HackerRank
+• Third Prize for Academic Excellence (2024)
+• Winner of Coding Competition Samiksha 2K23
+• Multiple certifications from Google, CISCO, NPTEL, and HackerRank
 
 🌱 Current Focus:
 
