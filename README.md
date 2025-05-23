@@ -27,10 +27,10 @@ const javeed = {
 <details>
 <summary>📈 More about my journey...</summary>
 <br>
-• My journey began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since!
-• Currently pursuing B.Tech in CSE at ALIET, Vijayawada with an impressive 8.8 CGPA, I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.
-• Current Role: Data Science Intern at SKILLDZIRE
-• Previous Adventures: Java Full Stack Intern at DATA VALLEY and ML Intern at INDIAN SERVERS
+• My journey began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since!<br>
+• Currently pursuing B.Tech in CSE at ALIET, Vijayawada with an impressive 8.8 CGPA, I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.<br>
+• Current Role: Data Science Intern at SKILLDZIRE<br>
+• Previous Adventures: Java Full Stack Intern at DATA VALLEY and ML Intern at INDIAN SERVERS<br>
 • Project Highlights: Built MEDCONNECT healthcare system serving 500+ monthly appointments and developed AI models processing 23,000+ images
 
 🏆 Recognition & Achievements:
