@@ -27,7 +27,7 @@ const javeed = {
 <details>
 <summary>📈 More about my journey...</summary>
 <br>
-• My journey began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since!<br>
+• Started with a perfect 10.0 GPA and have been on a journey of learning and innovation ever since!<br>
 • Currently pursuing B.Tech in CSE at ALIET, Vijayawada with an impressive 8.8 CGPA. <br>
 • I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.<br>
 • Current Role: Data Science Intern at SKILLDZIRE<br>
@@ -43,10 +43,10 @@ const javeed = {
 
 🌱 Current Focus:
 
-🔭 Building scalable full-stack applications with real-world impact<br>
-🤖 Exploring advanced ML techniques and AI model optimization<br>
-🚀 Contributing to open source projects and collaborative development<br>
-💡 Bridging the gap between data science and web development<br>
+• Building scalable full-stack applications with real-world impact<br>
+• Exploring advanced ML techniques and AI model optimization<br>
+• Contributing to open source projects and collaborative development<br>
+• Bridging the gap between data science and web development<br>
 
 From debugging late-night code sessions to deploying production-ready applications, every challenge has shaped me into the developer I am today. Let's connect and build something extraordinary together! 💻✨
 </details>
