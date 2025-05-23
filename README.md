@@ -8,16 +8,6 @@
 
 ---
 
-<div align="center">
-  
-### 🌟 Welcome to my Digital Universe! 🌟
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -26,7 +16,7 @@
 const javeed = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    role: "Full Stack Developer",
+    role: "Software Engineer",
     passion: ["Web Development", "Data Science", "Machine Learning"],
     currentFocus: "Building scalable applications with MERN stack",
     funFact: "I debug with console.log() and I'm proud of it! 😄",
@@ -37,6 +27,28 @@ const javeed = {
 <details>
 <summary>📈 More about my journey...</summary>
 <br>
+My journey in tech began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since! 🚀 Currently pursuing B.Tech in CSE at ALIET with an impressive 8.8 CGPA, I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.
+🎯 Professional Milestones:
+
+Current Role: Data Science Intern at SKILLDZIRE, where I've optimized data processing by 30% and built ML models with 92% accuracy for heart attack prediction
+Previous Adventures: Java Full Stack Intern at DATA VALLEY (reduced database query time by 45%) and ML Intern at INDIAN SERVERS (achieved 90% sentiment analysis accuracy)
+Project Highlights: Built MEDCONNECT healthcare system serving 500+ monthly appointments and developed AI models processing 23,000+ images
+
+🏆 Recognition & Achievements:
+
+Third Prize for Academic Excellence (2024)
+Winner of Coding Competition Samiksha 2K23
+Multiple certifications from Google, CISCO, NPTEL, and HackerRank
+
+🌱 Current Focus:
+
+🔭 Building scalable full-stack applications with real-world impact
+🤖 Exploring advanced ML techniques and AI model optimization
+🚀 Contributing to open source projects and collaborative development
+💡 Bridging the gap between data science and web development
+
+From debugging late-night code sessions to deploying production-ready applications, every challenge has shaped me into the developer I am today. Let's connect and build something extraordinary together! 💻✨
+</details>
 
 🎯 **Current Goals:**
 - 🔭 Working on innovative full-stack projects
