@@ -154,8 +154,8 @@ From debugging late-night code sessions to deploying production-ready applicatio
 ---
 
 <details>
-<summary>🎨 Click to see something cool!</summary>
-<br>
+<!-- <summary>🎨 Click to see something cool!</summary> -->
+<!-- <br> -->
 
 ```
     ╔══════════════════════════════════════╗
