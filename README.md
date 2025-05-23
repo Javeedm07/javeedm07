@@ -155,19 +155,13 @@ From debugging late-night code sessions to deploying production-ready applicatio
 
 <div align="center">
 
-```
-    ╔══════════════════════════════════════╗
-    ║                                      ║
-    ║        Thanks for visiting!          ║
-    ║                                      ║
-    ║     ⭐ Star some repositories        ║
-    ║     🤝 Connect with me              ║
-    ║     📧 Drop me a message            ║
-    ║                                      ║
-    ║         Happy Coding! 🚀             ║
-    ║                                      ║
-    ╚══════════════════════════════════════╝
-```
+**Thanks for visiting!**
+
+⭐ Star some repositories  
+🤝 Connect with me  
+📧 Drop me a message  
+
+**Happy Coding! 🚀**
 
 </div>
 
