@@ -157,7 +157,7 @@ From debugging late-night code sessions to deploying production-ready applicatio
 
 **Thanks for visiting!**
 
-⭐ Star some repositories | 🤝 Connect with me | 📧 Drop me a message  
+Star some repositories | Connect with me | Drop me a message  
 
 **Happy Coding! 🚀**
 
