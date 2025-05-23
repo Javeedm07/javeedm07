@@ -27,7 +27,8 @@ const javeed = {
 <details>
 <summary>📈 More about my journey...</summary>
 <br>
-My journey in tech began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since! 🚀 Currently pursuing B.Tech in CSE at ALIET with an impressive 8.8 CGPA, I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.
+• My journey began with a perfect 10.0 GPA in secondary school and has been a thrilling ride of continuous learning and innovation ever since!
+• Currently pursuing B.Tech in CSE at ALIET, Vijayawada with an impressive 8.8 CGPA, I've transformed from a curious student into a versatile developer through hands-on experience across multiple domains.
 🎯 Professional Milestones:
 
 Current Role: Data Science Intern at SKILLDZIRE, where I've optimized data processing by 30% and built ML models with 92% accuracy for heart attack prediction
@@ -141,8 +142,6 @@ From debugging late-night code sessions to deploying production-ready applicatio
 </div>
 
 ---
-
-## 📫 Let's Create Something Extraordinary Together!
 
 <div align="center">
   
